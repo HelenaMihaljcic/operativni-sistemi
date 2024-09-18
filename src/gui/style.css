@@ -1,0 +1,29 @@
+.root {
+    -fx-base: #2f2834;
+    -fx-background-color: #2f2834;
+    -fx-background-insets: 0;
+    -fx-padding: 40;
+}
+
+.text-area .content {
+    -fx-background-color: #2f2834;
+    -fx-fill: #d7d4d9;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Verdana";
+
+}
+
+.text-area {
+    -fx-text-fill: #d7d4d9;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-background-color: #2f2834;
+    -fx-text-fill: #d7d4d9;
+    -fx-font-size: 16px;
+    -fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+}
